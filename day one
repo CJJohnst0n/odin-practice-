@@ -1,0 +1,48 @@
+<html>
+  <head>
+  </head>
+  <body><strong>
+    <P>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</P> 
+
+    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+ 
+</strong></body>
+
+
+
+ <h1>Headline <em>One</em> Is The Largest </h1>
+ <h2>Headline <em>Two</em> Is Smaller</h2>
+ <h3>Headline <em>Three</em> Is Smaler</h3>
+ <h4>Headline <em>Four</em> Is Smaller</h4>
+ <h5>Headline <em>Five</em> Is Smaller</h5>
+<h6>Headline <em>Six</em> Is The Smallest</h6>
+
+
+  <h1>HELLO WORLD WE HAVE DONE SOMETHING NEW HERE</h1>
+
+
+<p><strong>so will this come up so i can JUST put anything without using tags then. thats odd so these are just word docs with extra bits 
+    
+</strong></p>
+<P><em>italic wrighting so i should really do an englifh corse for spelling</em></P>
+
+<ul>
+    <li>item one </li>
+    <li>item two </li>
+    <li>item three</li>
+    <li>item four</li>
+</ul>
+<ol>
+<li>item one </li>
+<li>item two </li>
+<li>item three</li>
+<li>item four</li>
+</ol>
+<P>so i am going to try and ceat a hyperlink an daslo put an imiage inside this website</P>
+<a href="https://www.theodinproject.com/about">click me</a>
+<a href="about.html">About Page </a>
+<P><img src="dog.jpg"alt="dog.jpg"></P>
+<P><img src="dog.jpg"alt="dog.jpg"></P>
+<P>i cannot get this to load^^^^^^ i dont know who to fix it</P>
+<img src="https://www.theodinproject.com/mstile-310x310.png" alt="The Odin Project Logo">
+</html>
